@@ -21,3 +21,8 @@ The application is composed of the following Features:
 
 
 ![alt text](./images/Categories.jpg) <br>
+
+![alt text](./images/Jewelery.jpg) <br>
+
+![alt text](./images/clothing.jpg) <br>
+
