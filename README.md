@@ -38,7 +38,38 @@ The application is composed of the following Features:
 * [React](https://reactjs.org/) - A javascript library for building user interfaces <br>
 * [Create react app](https://reactjs.org/docs/create-a-new-react-app.html) - A quick method to start developing a react application. <br>
 * [API](https://fakestoreapi.com/) -Used for getting JSON data  <br>
+---------------------------------
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. <br>
+
+# Prerequisites
+The following software is required to be installed on your system: <br>
+
+* Node 8.x
+* Npm 3.x
+
+Type the following commands in the terminal to verify your node and npm versions <br>
+
+node -v
+npm -v
+
+## Install
+
+Follow the following steps to get development environment running. <br>
+
+* Clone 'react-e-commerce-website.git' repository from GitHub
+
+* git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
+OR USING SSH
+
+* git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
 
 
+Install node modules <br>
 
+* npm install <br>
+* Starting front-end servers <br>
+* Build application <br>
+
+npm start
 
