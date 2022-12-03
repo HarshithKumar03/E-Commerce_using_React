@@ -20,4 +20,4 @@ The application is composed of the following Features:
 # Screen shot
 
 
-![alt text](https://github.com/HarshithKumae03/E-commerce_using_react/blob/images/image.jpg?raw=true)
+![alt text](./images/Categories.jpg) <br>
