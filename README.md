@@ -18,3 +18,6 @@ The application is composed of the following Features:
 * The cart component also allows to edit the contents of the items selected.<br>
 
 # Screen shot
+
+
+![alt text](https://github.com/HarshithKumae03/E-commerce_using_react/blob/images/image.jpg?raw=true)
