@@ -57,12 +57,9 @@ npm -v
 
 Follow the following steps to get development environment running. <br>
 
-* Clone 'react-e-commerce-website.git' repository from GitHub
+ Clone 'E-commerce_using_React.git' repository from GitHub
 
-* git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
-OR USING SSH
-
-* git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
+* git clone https://github.com/HarshithKumar03/E-commerce_using_React.git <br>
 
 
 Install node modules <br>
