@@ -70,3 +70,5 @@ Install node modules <br>
 
 npm start
 
+## License
+ This project is free to use and does not contains any license.
